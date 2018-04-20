@@ -68,11 +68,5 @@ https://anjia0532.github.io/2017/11/15/gcr-io-image-mirror/
 
 ##### travis ci定时构建未操作？？？
 
-### 账号
-- https://hub.docker.com/
-- username/password: wangzg/chris3120651
-- https://github.com/
-- username/password: dlwangzg/chris3120651
-
 #### 参考docker images mirror repository
 gcr.mirrors.ustc.edu.cn/google_containers/kubernetes-zookeeper:1.0-3.4.10
